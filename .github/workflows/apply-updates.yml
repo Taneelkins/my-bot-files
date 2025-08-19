@@ -1,7 +1,7 @@
 name: Apply Tutor Updates
 
 on:
-  workflow_dispatch:   # lets you run it manually from GitHub
+  workflow_dispatch:
 
 jobs:
   test:
@@ -12,3 +12,6 @@ jobs:
 
       - name: Print a message
         run: echo "Hello Master Taru, Actions is alive!"
+
+      - name: List files in repo
+        run: ls -R
