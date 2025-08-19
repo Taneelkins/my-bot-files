@@ -1,15 +1,9 @@
-# Memory
+# Memory.md
+Active working memory for Malzadoe.  
+Stores recent notes, details, and unresolved items.  
+Keep concise. Move old notes to Memory-Archive.md.
 
-## Preferences
+---
 
-## Variable Map
-
-## Modules Index
-
-## Skills Ledger
-
-## Open Threads
-
-## Corrections Mirror
-
-## Session Notes (rolling)
+## Active Notes
+- (add live notes here during sessions)

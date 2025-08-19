@@ -1,1 +1,11 @@
-Issue,Fix,Notes
+# FixLog.csv
+Troubleshooting ledger.  
+Tracks attempted fixes so failed ones are never repeated.  
+Always consult before suggesting new steps.
+
+Format:  
+YYYY-MM-DD, Action, Result, Next Step
+
+---
+(Example row)
+2025-08-19, Reload Luau LSP command, Error: "resource deadlock would occur", Next: Downgrade or try Nightly build
